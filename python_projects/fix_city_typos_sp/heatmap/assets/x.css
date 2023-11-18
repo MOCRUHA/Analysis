@@ -1,0 +1,10 @@
+#cont_fora {
+    display: flex; /* Usa flexbox */
+  }
+  
+  .cont {
+    width: 30%; /* Define a largura das imagens */
+    margin: 5px; /* Adiciona um pequeno espaço entre as imagens */
+  }
+
+  .cont:first-child {width: 30%; }
