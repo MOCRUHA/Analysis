@@ -1,0 +1,3 @@
+pegar infos chave das caixa e colocar numa planilha
+
+infos-chave[Nome Fantasia, Razão Social, Principal, Executivo, Unidades, Faturamento, Telefone, Email, Site]
